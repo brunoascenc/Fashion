@@ -1,6 +1,6 @@
 #Fashion
 
-Fashion é uma simples página voltada para a moda feminina. 
+Fashion é uma simples página de fotos e informações sobre a moda feminina e um landing page full screen.
 
    Imagens: unsplash (unsplash.com)
    Icones: fontawesome (fontawesome.com)
